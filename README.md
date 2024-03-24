@@ -2,6 +2,4 @@
 
 # Profesor: Matias
 
-# Alumno apellido: Lukacher
-
-# Alumno nombre: Alejandro
+# Alumno:
