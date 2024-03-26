@@ -2,4 +2,4 @@
 
 # Profesor: Matias Duro
 
-# Alumno: Alejandro Lukacher
+# Alumno: Alejandro S. Lukacher
